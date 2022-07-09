@@ -13,6 +13,7 @@ export default function Comment() {
           <div />
         </div>
         {/* Comment Iframe */}
+        <h1>Comments</h1>
         {/* <iframe
           name="ndtvSocialCommentForm"
           id="ndtvSocialCommentFormRhs"

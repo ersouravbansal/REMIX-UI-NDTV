@@ -7,8 +7,8 @@ import {
   ScrollRestoration,
 } from "@remix-run/react";
 import indexstyle from "~/styles/index.css";
-import TopMenu from "./components/TopMenu";
-import MainNavigation from "./components/MainNavigation";
+import TopMenu from "./components/menu/TopMenu";
+import MainNavigation from "./components/menu/MainNavigation";
 export const links = () => {
   return [
     {

@@ -1,4 +1,4 @@
-import SubNav from "../components/SubNav";
+import SubNav from "../components/menu/SubNav";
 import BackTop from "../components/BackTop";
 import Comment from "../components/Comment";
 import Content from "../components/Content";

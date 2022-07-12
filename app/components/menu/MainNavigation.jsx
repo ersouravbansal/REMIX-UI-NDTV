@@ -58,9 +58,9 @@ export default function MainNavigation() {
                         Select Languages
                       </li>
                       <li className="dd-nav_li">
-                        <a className="m-nv_lnk" href="#0">
+                        <Link className="m-nv_lnk" to="/#Hindi">
                           हिंदी | Hindi
-                        </a>
+                        </Link>
                       </li>
                     </ul>
                   </div>
